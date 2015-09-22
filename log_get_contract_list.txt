@@ -1,0 +1,8 @@
+mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 17
+    [lengths] => 
+    [num_rows] => 3
+    [type] => 0
+)
